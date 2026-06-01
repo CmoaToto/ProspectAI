@@ -23,4 +23,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "ProspectAI"
-include(":app")
+include(":androidApp", ":shared")
