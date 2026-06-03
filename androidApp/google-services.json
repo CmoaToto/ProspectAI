@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088137667092",
+    "project_id": "prospectai-bdab3",
+    "storage_bucket": "prospectai-bdab3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088137667092:android:e4a9c420526278caa6fd01",
+        "android_client_info": {
+          "package_name": "com.cmoatoto.prospectai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbem8uxpiaa6bjToXniYddNRPa9L_82o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
